@@ -24,3 +24,7 @@ AI-driven medical recommendations #Gradio for an interactive UI
 🎯 How to Use: Run the script, input blood sample features, and get AI-driven disease predictions with personalized health recommendations.
 
 🔗 Try it out with Gradio! 🚀
+
+
+
+![image_alt](https://github.com/manojramamoorthi/Multiple-Diseases-Prediction/blob/5c3bda2909e992fd38c35e248ae01260f61aaca1/Screenshot%202025-05-31%20154051.png)
